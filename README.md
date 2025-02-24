@@ -14,7 +14,7 @@ This PowerShell script (and its compiled `.exe` version) automatically organizes
 - Works with `.jpg`, `.jpeg`, and `.png` files.
 - Interactive prompt for selecting a folder.
 - Allows processing multiple folders in one session.
-- Available as both a **PowerShell script** and a standalone **Windows executable (**``**)**.
+- Available as both a **PowerShell script** and a standalone **Windows executable ([SortPhotosByDate](SortPhotosByDate.exe))**.
 
 ## Requirements
 
